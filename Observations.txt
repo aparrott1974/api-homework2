@@ -1,0 +1,3 @@
+1. We are observing warmer temperatures near 20N latitude than anywhere else.
+2. Humidity, cloudiness and wind speed have no correlation to latitude.
+3. There are very few weather stations beyond +/- 60 latitude, we don't have data for the whole planet.
